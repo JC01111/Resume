@@ -78,8 +78,8 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout:
-        title: University of California, Berkeley   B.A. Computer Science
+      - layout: left
+        sub_title: University of California, Berkeley
         sub_title: B.A. Computer Science
       - layout:
         caption: 2020 - 2024
@@ -87,7 +87,7 @@ content:
 #        quote: >
           
         description: | # this will include new lines to allow paragraphs
-          
+          Core Courses: Data Structure and Algorithms
 
   - title: Publication
     layout: text
