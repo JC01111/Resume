@@ -47,12 +47,12 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: 
+            url:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -81,11 +81,9 @@ content:
       - layout: left
         sub_title: University of California, Berkeley
                     <br> B.A. Computer Science
-      - layout:
         caption: 2020 - 2024
-        
 #        quote: >
-          
+      - layout: left
         description: | # this will include new lines to allow paragraphs
           Core Courses: Data Structure and Algorithms
 
