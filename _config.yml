@@ -38,6 +38,10 @@ linkedin_username: jaychen01
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     Hi, my name's Jay and I'm a CS senior student at UC Berkeley. Currenly, I'm looking for job as Software Development Engineer.
+    <br>
+    Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Tennis
+      - Basketball
 
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -90,14 +94,14 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Tennis
-      - Basketball
+      
       
   - title: Technical Skills
     layout: text
     content: |
-      Nothing yet
+      Programming Language: Java, Python, C++, Assembly Language, Shell Script, etc.
+      <br>
+      Framework and Tools: Intellij, JUnit, Git, Xcode, Atom, Matlab, SQL, Jupyter Notebook, Latex, etc.
 
 
 # Footer
