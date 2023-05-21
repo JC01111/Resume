@@ -9,14 +9,14 @@ version: 2
 name: Jay Chen
 title: Student
 email: jc01@berkeley.edu
-#website: https://jc01111.github.io/resume/
+#website:
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  JC01111
+github_username: JC01111
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -26,7 +26,7 @@ linkedin_username: https://www.linkedin.com/in/jaychen01/
 google_scholar_username:
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
