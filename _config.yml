@@ -11,13 +11,13 @@ title: Student
 email: jc01@berkeley.edu
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: facespics
 github_username:  JC01111
 instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/jaychen01/
 
 # Additional icon links
 additional_links:
