@@ -22,8 +22,8 @@ github_username: JC01111
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: jameswgrant
-linkedin_username: https://www.linkedin.com/in/jaychen01/
-google_scholar_username:
+linkedin_username:
+#google_scholar_username:
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -98,8 +98,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at Berkeley, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-- title: Research
+  - title: Research
     layout: text
+    content:  |
+        Nothing yet
     
 
 
@@ -111,7 +113,7 @@ content:
       - Basketball
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
