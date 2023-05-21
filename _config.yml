@@ -42,6 +42,32 @@ about_content: | # this will include new lines to allow paragraphs
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        sub_title: University of California, Berkeley
+                    <br> B.A. Computer Science
+        caption: 2020 - 2024
+#        quote: >
+        description: | # this will include new lines to allow paragraphs
+          Core Courses: Data Structure and Algorithms
+          
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: title
+        link:
+        # link_text: boringcompany.com
+        sub_title: job_description
+        caption: time
+#        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -59,33 +85,7 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: title
-        link:
-        # link_text: boringcompany.com
-        sub_title: job_description
-        caption: time
-#        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-            
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        sub_title: University of California, Berkeley
-                    <br> B.A. Computer Science
-        caption: 2020 - 2024
-#        quote: >
-      - layout: left
-        description: | # this will include new lines to allow paragraphs
-          Core Courses: Data Structure and Algorithms
 
   - title: Publication
     layout: text
