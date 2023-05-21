@@ -79,9 +79,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of California, Berkeley
+        title: University of California, Berkeley                                           B.A. Computer Science
         sub_title: B.A. Computer Science
-      - layout: top - right
+      - layout:
         caption: 2020 - 2024
         
 #        quote: >
