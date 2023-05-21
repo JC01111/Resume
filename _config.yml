@@ -79,9 +79,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: UC Berkeley
+        title: University of California, Berkeley
+        sub_title: B.A. Computer Science
+      - layout: right
         caption: 2020 - 2024
-        sub_title: BS Computer Science
+        
 #        quote: >
           
         description: | # this will include new lines to allow paragraphs
