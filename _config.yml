@@ -42,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
     Alongside my interests are:
       - Tennis
       - Basketball
-      - composing music
+      - Composing music
 
 content:
   - title: Education # Title for the section
@@ -61,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Undergraduate Researcher
+        sub_title: Undergraduate Researcher
         link:
         # link_text: boringcompany.com
         sub_title: Kennesaw State University, Dr. Yixin Xie's Lab
