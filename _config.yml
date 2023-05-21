@@ -81,7 +81,7 @@ content:
       - layout: left
         title: University of California, Berkeley
         sub_title: B.A. Computer Science
-      - layout: right
+      - layout: top - right
         caption: 2020 - 2024
         
 #        quote: >
