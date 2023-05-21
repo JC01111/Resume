@@ -80,7 +80,7 @@ content:
     content:
       - layout: left
         sub_title: University of California, Berkeley
-        sub_title: B.A. Computer Science
+                    <br> B.A. Computer Science
       - layout:
         caption: 2020 - 2024
         
