@@ -96,7 +96,7 @@ content:
       
       
   - title: Technical Skills
-    layout: text
+    layout: list
     content: |
       Programming Language: Java, Python, C++, Assembly Language, Shell Script, etc.
       <br>
