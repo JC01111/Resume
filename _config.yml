@@ -78,8 +78,8 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: University of California, Berkeley                                           B.A. Computer Science
+      - layout:
+        title: University of California, Berkeley   B.A. Computer Science
         sub_title: B.A. Computer Science
       - layout:
         caption: 2020 - 2024
@@ -89,12 +89,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           
 
-  - title: A Little More About Me
+  - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Tennis
       - Basketball
+      
+  - title: Technical Skills
+    layout: text
+    content: |
+      Nothing yet
 
 
 # Footer
