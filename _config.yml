@@ -53,7 +53,7 @@ content:
         sub_title: University of California, Berkeley
                     <br> B.A. Computer Science
         caption: 2020 - 2024
-        image: Seal_ucb.png
+        image: https://github.com/JC01111/Resume/blob/eda42126a2a7e4ce9c59e5005c86f0207cab6400/images/Seal_ucb.png
 #        quote: >
         description: | # this will include new lines to allow paragraphs
           Core Courses: Data Structure and Algorithms, Structure and Interpretation of Computer Programs, Principle of Data Science, Discrete Math and Probability, Concepts of Probability, Linear Algebra
