@@ -70,8 +70,9 @@ content:
 #        quote: >
           
         description: | # this will include new lines to allow paragraphs
-          - name: item1
-            description: Test
+          - Applying Machine Learning methods (random forest, GNN, etc.) in biological data analysis
+          - Performing DNA repair and damage-related research work
+          - A review paper on DNA repair database
 
 
   - title: Projects # Title for the section
