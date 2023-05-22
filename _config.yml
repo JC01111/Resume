@@ -88,7 +88,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 #        quote: >
         description: | # this will include new lines to allow paragraphs
-            A Python program to compare two proteins’ sequence, then color the difference in ChimeraX
+          A Python program to compare two proteins’ sequence, then color the difference in ChimeraX
 
   - title: Publication
     layout: text
