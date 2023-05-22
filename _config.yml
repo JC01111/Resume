@@ -70,7 +70,6 @@ content:
 #        quote: >
           
         description: | # this will include new lines to allow paragraphs
-        items:
           - name: item1
             description: Test
 
