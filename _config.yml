@@ -77,7 +77,7 @@ content:
     content:
       - layout: top-left
         sub_title: Color DNA Sequence
-        caption: **March 2023**
+        caption: 
         # link_text: Project Website
 #         additional_links:
 #          - title:  sproogen/modern-resume-theme
