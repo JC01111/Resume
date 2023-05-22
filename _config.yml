@@ -76,7 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
-        title: BYOW
+        sub_title: BYOW
         link:
         # link_text: Project Website
 #         additional_links:
