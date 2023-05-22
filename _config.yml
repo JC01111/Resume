@@ -68,7 +68,6 @@ content:
         sub_title: Kennesaw State University, Dr. Yixin Xie's Lab
         caption: Dec 2022 - Present
 #        quote: >
-          
         description: | # this will include new lines to allow paragraphs
           - Applying Machine Learning methods (random forest, GNN, etc.) in biological data analysis
           - Performing DNA repair and damage-related research work
@@ -92,6 +91,11 @@ content:
 #        quote: >
         description: | # this will include new lines to allow paragraphs
           A Python program to compare two proteins’ sequence, then color the difference in ChimeraX
+        
+        sub_title: Currency Exchange
+        caption: March 2023
+        description: |
+          Web scrape the latest currency of USD to RMB online, then help with calculating the amount of money needed to exchange between USD and RMB
 
   - title: Publication
     layout: text
