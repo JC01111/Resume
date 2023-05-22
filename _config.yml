@@ -92,7 +92,7 @@ content:
 
 
   - title: Publication
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase(UDG) and DNA. Xie, Y., Karki, C. B., **Chen, J.**, Liu, D., Li, L. (2021). Frontiers in Molecular Biosciences, 8, 681.
       <br>
