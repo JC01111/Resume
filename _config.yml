@@ -94,9 +94,9 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase(UDG) and DNA. Xie, Y., Karki, C. B., **Chen, J.**, Liu, D., Li, L. (2021). Frontiers in Molecular Biosciences, 8, 681.
-      <br>
-      Using a comprehensive approach to investigate the interaction between Kinesin-5/Eg5 and the microtubule. Guo, W., Sun, S., Sanchez, J. E., Lopez-Hernandez, A. E., Ale, T. A., **Chen, J.**, ... Li, L. (2022). Computational and structural biotechnology journal, 20, 4305-4314.
+      [1] Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase(UDG) and DNA. Xie, Y., Karki, C. B., **Chen, J.**, Liu, D., Li, L. (2021). Frontiers in Molecular Biosciences, 8, 681.
+      <br> <br>
+      [2] Using a comprehensive approach to investigate the interaction between Kinesin-5/Eg5 and the microtubule. Guo, W., Sun, S., Sanchez, J. E., Lopez-Hernandez, A. E., Ale, T. A., **Chen, J.**, ... Li, L. (2022). Computational and structural biotechnology journal, 20, 4305-4314.
       
   - title: Technical Skills
     layout: text
