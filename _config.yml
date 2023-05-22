@@ -76,7 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
-        sub_title: BYOW
+        sub_title:
         link:
         # link_text: Project Website
 #         additional_links:
@@ -94,7 +94,7 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      
+      Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase(UDG) and DNA. Xie, Y., Karki, C. B., Chen, J., Liu, D., Li, L. (2021). Frontiers in Molecular Biosciences, 8, 681.
       
   - title: Technical Skills
     layout: text
