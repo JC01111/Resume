@@ -48,12 +48,12 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    image: images/Seal_ucb.svg.png
     content:
       - layout: left
         sub_title: University of California, Berkeley
                     <br> B.A. Computer Science
         caption: 2020 - 2024
+        image: images/Seal_ucb.png
 #        quote: >
         description: | # this will include new lines to allow paragraphs
           Core Courses: Data Structure and Algorithms, Structure and Interpretation of Computer Programs, Principle of Data Science, Discrete Math and Probability, Concepts of Probability, Linear Algebra
