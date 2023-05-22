@@ -91,7 +91,8 @@ content:
 #        quote: >
         description: | # this will include new lines to allow paragraphs
           A Python program to compare two proteins’ sequence, then color the difference in ChimeraX
-        
+          
+        <br> <br>
         sub_title: Currency Exchange
         caption: March 2023
         description: |
