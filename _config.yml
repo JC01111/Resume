@@ -52,7 +52,7 @@ content:
       - layout: left
         sub_title: University of California, Berkeley
                     <br> B.A. Computer Science
-                    - images/Seal_ucb.png
+    - images/Seal_ucb.png
         caption: 2020 - 2024
 #        quote: >
         description: | # this will include new lines to allow paragraphs
