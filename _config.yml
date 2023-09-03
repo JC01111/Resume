@@ -18,6 +18,7 @@ github_username: JC01111
 #instagram_username:
 linkedin_username: jaychen01
 #youtube_username: jaychen1117
+Resume: My resume
 
 # Additional icon links
 #additional_links:
@@ -56,7 +57,7 @@ content:
 #        quote: >
         description: | # this will include new lines to allow paragraphs
           Core Courses: Data Structure and Algorithms, Structure and Interpretation of Computer Programs, Principle of Data Science, Discrete Math and Probability, Concepts of Probability, Linear Algebra
-          
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,7 +92,7 @@ content:
 #        quote: >
         description: | # this will include new lines to allow paragraphs
           - A Python program to compare two proteins’ sequence, then color the difference in ChimeraX
-          
+
       - layout: top-left
         sub_title: Currency Exchange
         caption: March 2023
@@ -105,7 +106,7 @@ content:
       <br> <br>
       [2] Using a comprehensive approach to investigate the interaction between Kinesin-5/Eg5 and the microtubule. Guo, W., Sun, S., Sanchez, J. E., Lopez-Hernandez, A. E., Ale, T. A., **Chen, J.**, ... Li, L. (2022). Computational and structural biotechnology journal, 20, 4305-4314.
           [[link]](https://www.sciencedirect.com/science/article/pii/S2001037022003543)
-      
+
   - title: Technical Skills
     layout: text
     content: |
