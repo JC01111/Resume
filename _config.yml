@@ -47,6 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
       - Music
 
 content:
+  - title: new website constructing: https://jc01111.github.io/jc.github.io/
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
