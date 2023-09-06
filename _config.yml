@@ -71,9 +71,8 @@ content:
         caption: Dec 2022 - Present
 #        quote: >
         description: | # this will include new lines to allow paragraphs
-          - Applying Machine Learning methods (random forest, GNN, etc.) in biological data analysis
-          - Performing DNA repair and damage-related research work
-          - A review paper on DNA repair database
+          - Applying and Optimizing Machine Learning Algorithms (random forest, GNN, etc.) in biological data analysis
+          - Developing tools (Shell script) to perform Molecular Dynamic simulations, increased calculation speed by 80%
 
 
   - title: Projects # Title for the section
