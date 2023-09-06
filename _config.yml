@@ -53,10 +53,10 @@ content:
     content:
       - layout: "left"
         sub_title: "University of California, Berkeley<br> B.A. Computer Science"
-        caption: "Present - 2024<br>GPA: 3.49/4.00"
+        caption: "Present - 2024<br><br>GPA: 3.49/4.00"
         description: |
           Core Courses: Efficient Algorithms and Intractable Problems, Optimization Models in Engineering, Introduction to Artificial Intelligence
-          , Computer Security, Data Structures, Concepts of Probability<br>GPA: 3.49/4.00
+          , Computer Security, Data Structures, Concepts of Probability
 
 
   - title: Experience # Title for the section
