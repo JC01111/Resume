@@ -132,9 +132,13 @@ content:
   - title: Technical Skills
     layout: text
     content: |
-      Programming Language: Java, Python, C++, Assembly Language, Shell Script, etc.
+      Programming Language: Java, Python, Go, C++, C, Assembly Language, Shell Bash Script, etc.
       <br>
-      Framework and Tools: Intellij, JUnit, Git, Xcode, Atom, Matlab, SQL, Jupyter Notebook, Latex, etc.
+      Framework and Tools: JUnit, Git, Matlab, SQL, Latex, etc.
+      <br>
+      Technical Skills: Software Engineering, Data Analysis, Technical Writing, etc.
+      <br>
+      Soft Skills: Communication, Innovation, Critical Thinking, Patience, Time Management, Teamwork, etc.
 
 
 # Footer
