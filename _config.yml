@@ -93,6 +93,12 @@ content:
           - A Python program to compare two proteins’ sequence, then color the difference in ChimeraX
 
       - layout: top-left
+        sub_title: Pacman AI
+        caption: Sep 2023
+        description: |
+            - Used Advanced Algorithms to find the optimized route to escape the maze and eat all the dots
+        
+      - layout: top-left
         sub_title: Currency Exchange
         caption: March 2023
         description: |
