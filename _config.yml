@@ -73,17 +73,53 @@ content:
           - Applying and Optimizing Machine Learning Algorithms (random forest, GNN, etc.) in biological data analysis
           - Developing tools (Shell script) to perform Molecular Dynamic simulations, increased calculation speed by 80%
 
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: top-left
         sub_title: Pacman AI
         caption: Sep 2023
+        # link_text: Project Website
+#         additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+        description: | # this will include new lines to allow paragraphs
+          - Used Advanced Algorithms to find the optimized route to escape the maze and eat all the dots
+
+      - layout: top-left
+        sub_title: Machine Learning Projects
+        caption: July - Aug 2023
         description: |
-            - Used Advanced Algorithms to find the optimized route to escape the maze and eat all the dots
-        
+          - Specified and fitted linear regression model to predict housing prices (≈ 85% accuracy)
+          - Classified junk and ham emails by a binary classifier (≈ 85% accuracy)
+
       - layout: top-left
         sub_title: Currency Exchange
-        caption: March 2023
+        caption: Apr 2023
         description: |
-          - Web scrape the latest currency of USD to RMB online, then help with calculating the amount of money needed to exchange between USD and RMB
+          - Wrote a Python program to calculate real time exchange amount
+          - Web scraped and regex currency ratio in time-sensitive
+
+      - layout: top-left
+        sub_title: Protein Data Visualization
+        caption: July 2021 - Mar 2023
+        description: |
+          - Developed a Python visualization tool to present and colorize proteins’ sequence
+          - Compared and aligned protein 3D structures
+          - Wrote a shell script to automatically colorize key residuals (salt bridges, h-bonds) by the occupancy
+
+      - layout: top-left
+        sub_title: "Plant vs Zombies"
+        caption: Oct 2022
+        description: |
+          - Wrote a Python game to replicate the "Plant vs Zombies"
+
 
   - title: Publication
     layout: text
