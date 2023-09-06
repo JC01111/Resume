@@ -73,25 +73,6 @@ content:
           - Applying and Optimizing Machine Learning Algorithms (random forest, GNN, etc.) in biological data analysis
           - Developing tools (Shell script) to perform Molecular Dynamic simulations, increased calculation speed by 80%
 
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-left
-        sub_title: Color DNA Sequence
-        caption: March 2023
-        # link_text: Project Website
-#         additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-        description: | # this will include new lines to allow paragraphs
-          - A Python program to compare two proteins’ sequence, then color the difference in ChimeraX
-
       - layout: top-left
         sub_title: Pacman AI
         caption: Sep 2023
