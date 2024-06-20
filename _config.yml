@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Jay Chen
-title: Undergraduate Student
+name: Jiawei Chen
+title: Cal Alumni
 email: jc01@berkeley.edu
 new website: https://jc01111.github.io/jc.github.io/
 
@@ -40,12 +40,17 @@ linkedin_username: jaychen01
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name's Jay and I'm a CS senior student at UC Berkeley. I'm graduating in Spring 2024. Currenly, I'm looking for job as Software Development Engineer.
+    Hi, my name's Jay, currently live in Atlanta, Georgia. And I just graduated from UC Berkeley in B.A. Computer Science. I'm actively seeking positions as Software Developement Engineer, Data Analysis, and Machine Learning Engineer.
     <br> <br>
     Alongside coding, my interests are:
+      - Road-trip
+      - Basketball
       - Golf
       - Tennis
       - Music
+        - [You Say (Instrumental)]()
+      
+      
 
 content:
   - title: "Education" # Title for the section
@@ -53,10 +58,9 @@ content:
     content:
       - layout: "left"
         sub_title: "University of California, Berkeley<br> B.A. Computer Science"
-        caption: "Present - 2024<br><br>GPA: 3.49/4.00"
+        caption: "Class of 2024<br><br>GPA: 3.4/4.0"
         description: |
-          Core Courses: Efficient Algorithms and Intractable Problems, Optimization Models in Engineering, Introduction to Artificial Intelligence
-          , Computer Security, Data Structures, Concepts of Probability
+          Core Courses: Machine Learning, Artificial Intelligence, Database Management System,  Efficient Algorithms and Intractable Problems, Optimization Models in Engineering, Computer Security, Data Structures, Concepts of Probability
 
 
   - title: Experience # Title for the section
@@ -66,38 +70,75 @@ content:
         sub_title: Undergraduate Researcher
         link:
         # link_text: boringcompany.com
-        sub_title: Kennesaw State University, Dr. Yixin Xie's Lab
-        caption: Dec 2022 - Present
+        sub_title: Kennesaw State University <br> Dr. Yixin Xie's Lab
+        caption: Sep 2022 - Present
 #        quote: >
         description: | # this will include new lines to allow paragraphs
           - Applying and Optimizing Machine Learning Algorithms (random forest, GNN, etc.) in biological data analysis
           - Developing tools (Shell script) to perform Molecular Dynamic simulations, increased calculation speed by 80%
+          - Developing and Maintaining lab website
 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
-        sub_title: Pacman AI
-        caption: Sep 2023
-        # link_text: Project Website
-#         additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-        description: | # this will include new lines to allow paragraphs
-          - Used Advanced Algorithms to find the optimized route to escape the maze and eat all the dots
+        sub_title: Machine Learning Projects (Python)
+        caption: July 2023 - May 2024
+        description: |
+          - Developed a Convolutional Neural Network (CNN) to classify CIFAR-10 images with 82.5% accuracy, ranking in the top 11% in Kaggle competition.
+          
+          - Performed data cleaning and built a Random Forest model to predict Titanic survival with 82% accuracy, ranking in the top 5% in Kaggle competition.
+          
+          - Implemented Recurrent Neural Network (RNN) and Neural Network to classify digits and language identification.
+
+          - Specified and fitted linear regression model to predict housing prices (≈ 85% accuracy)
+          
+          - Classified junk and ham emails by a binary classifier (≈ 85% accuracy)
 
       - layout: top-left
-        sub_title: Machine Learning Projects
-        caption: July - Aug 2023
+        sub_title: Database Management System (Java)
+        caption: March 2024
         description: |
-          - Specified and fitted linear regression model to predict housing prices (≈ 85% accuracy)
-          - Classified junk and ham emails by a binary classifier (≈ 85% accuracy)
+          - Implemented transaction management systems to ensure ACID properties and handle concurrency control. 
+          
+          - Worked on indexing mechanisms and storage optimizations to enhance data retrieval speeds.
+          
+          - Implemented the ARIES recovery algorithm to ensure robust database recovery and fault tolerance.
+
+      - layout: top-left
+        sub_title: File Sharing System (Go)
+        caption: July 2023
+        description: |
+          - Developed a secure file sharing system that allows users to log in, store files, and share files with other users, even in the presence of attackers.
+          
+          - Implemented robust security features using databases and keystores to store information and encryption keys.
+          
+          - Employed advanced cryptographic techniques such as HMAC and SHA-512 to encrypt and tag critical data.
+
+      - layout: top-left
+        sub_title: Pacman AI (Python)
+        caption: Sep 2023 - Dec 2023
+        description: | # this will include new lines to allow paragraphs
+          - Developed advanced algorithms (A*, Markov Decision Process, Reinforcement Learning, and Machine Learning) to optimize Pac-Man’s path in the maze for efficient pellet collection while evading ghosts.
+
+          - Implemented Bayes Nets and Hidden Markov Models (HMMs) to accurately track the position of ghosts using noisy sensor data, and utilized Particle Filtering to enhance Pac-Man’s decision-making process under uncertainty.
+
+      - layout: top-left
+        sub_title: Computer Graphics Projects (C++)
+        caption: Feb 2024
+        description: |
+          - Implemented a rasterizer with features like drawing triangles, supersampling, hierarchical transforms, and texture mapping with antialiasing, resulting in a functional vector graphics renderer for simplified SVG files.
+          
+          - Developed geometric modeling techniques by building Bezier curves and surfaces using de Casteljau’s algorithm, manipu- lating triangle meshes with half-edge data structure, and implementing mesh upsampling.
+
+      - layout: top-left
+        sub_title: Data Analysis Projects (Python)
+        caption: March 2023
+        description: |
+          - "World Population and Poverty": explored data from Gapminder.org to understand and analysis the world population and poverty.
+
+          - "Climate Change - Temperatures and Precipitation":  investigated data on climate change, and the long-term shifts in temperatures and weather patterns.
 
       - layout: top-left
         sub_title: Currency Exchange
@@ -124,21 +165,19 @@ content:
   - title: Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      [1] Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase(UDG) and DNA. Xie, Y., Karki, C. B., **Chen, J.**, Liu, D., Li, L. (2021). Frontiers in Molecular Biosciences, 8, 681. [[link]](https://www.frontiersin.org/articles/10.3389/fmolb.2021.718587/full)
+      [1] **Chen, J.**, Potlapalli, R., Quan, H., Chen, L., Xie, Y., Pouriyeh, S., ... & Xie, Y. (2024). [Exploring DNA Damage and Repair Mechanisms: A Review with Computational Insights.](https://www.mdpi.com/2673-6284/13/1/3) _BioTech_, 13(1), 3.
       <br> <br>
-      [2] Using a comprehensive approach to investigate the interaction between Kinesin-5/Eg5 and the microtubule. Guo, W., Sun, S., Sanchez, J. E., Lopez-Hernandez, A. E., Ale, T. A., **Chen, J.**, ... Li, L. (2022). Computational and structural biotechnology journal, 20, 4305-4314.
-          [[link]](https://www.sciencedirect.com/science/article/pii/S2001037022003543)
+      [2] Xie, Y., Karki, C. B., **Chen, J.**, Liu, D., & Li, L. (2021). [Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase (UDG) and DNA.](https://www.frontiersin.org/articles/10.3389/fmolb.2021.718587/full) Frontiers in Molecular Biosciences, 8, 718587.
+
 
   - title: Technical Skills
     layout: text
     content: |
       Programming Language: Java, Python, Go, C++, C, Assembly Language, Shell Bash Script, etc.
       <br>
-      Framework and Tools: JUnit, Git, Matlab, SQL, Latex, etc.
+      Framework and Tools: AWS, Azure, GCP, Databricks, Docker, Git, SQL, NoSQL (MongoDB), Linux
       <br>
-      Technical Skills: Software Engineering, Data Analysis, Technical Writing, etc.
-      <br>
-      Soft Skills: Communication, Innovation, Critical Thinking, Patience, Time Management, Teamwork, etc.
+      Others: Agile Methodology, System Design, Matplotlib, Tableau, Scikit-learn, pandas, NumPy, PyTorch
 
 
 # Footer
