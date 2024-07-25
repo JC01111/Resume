@@ -163,7 +163,7 @@ content:
       - layout: top-left
         sub_title: Ants Vs. Bees <a href="https://github.com/JC01111/Ants_vs_bees" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: Oct 2022
-         <br> <br> <img src="../src/imgs/ants.gif">
+         <br> <br> <img src="src/imgs/ants.gif">
         description: |
           - Wrote a Python game similar to "Plant vs Zombies" uses an object-oriented programming paradigm
 
