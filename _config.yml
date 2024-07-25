@@ -8,8 +8,7 @@ version: 2
 # Personal info
 name: Jiawei Chen
 title: Cal Alumni
-email: jc01@berkeley.edu
-new website: https://jc01111.github.io/jc.github.io/
+email: imjwchen@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -40,15 +39,19 @@ linkedin_username: jaychen01
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    Hi, my name's Jay, currently live in Atlanta, Georgia. And I just graduated from UC Berkeley in B.A. Computer Science. I'm actively seeking positions as Software Developement Engineer, Data Analysis, and Machine Learning Engineer.
+    Hi, my name is Jay. I currently live in Atlanta, Georgia, and I recently graduated with a B.A. in Computer Science from UC Berkeley. I'm actively seeking positions as a Software Engineer, Machine Learning Engineer, and in related fields.
     <br> <br>
     Alongside coding, my interests are:
       - Road-trip
       - Basketball
       - Golf
       - Tennis
-      - Music
-        - [You Say (Instrumental)]()
+      - Compose Music
+        - [You Say (Instrumental)]() (R&B, EDM)
+        <audio controls>
+          <source src="../src/musics/You Say Instrumental.m4a" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
       
       
 
@@ -60,7 +63,7 @@ content:
         sub_title: "University of California, Berkeley<br> B.A. Computer Science"
         caption: "Class of 2024<br><br>GPA: 3.4/4.0"
         description: |
-          Core Courses: Machine Learning, Artificial Intelligence, Database Management System,  Efficient Algorithms and Intractable Problems, Optimization Models in Engineering, Computer Security, Data Structures, Concepts of Probability
+          Core Courses: Machine Learning (CS189), Artificial Intelligence (CS188), Database Management System (CS186),  Efficient Algorithms and Intractable Problems (CS170), Optimization Models in Engineering (EECS127), Computer Security (CS161), Data Structures (CS61B), Concepts of Probability (Stat134), Game Theory (Stat155)
 
 
   - title: Experience # Title for the section
@@ -70,7 +73,7 @@ content:
         sub_title: Undergraduate Researcher
         link:
         # link_text: boringcompany.com
-        sub_title: Kennesaw State University <br> Dr. Yixin Xie's Lab
+        sub_title: Kennesaw State University <br> Dr. Yixin Xie's Lab <a href="https://xlab.kennesaw.edu" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: Sep 2022 - Present
 #        quote: >
         description: | # this will include new lines to allow paragraphs
@@ -83,8 +86,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
-        sub_title: Machine Learning Projects (Python)
+        sub_title: Machine Learning Projects (Python) <a href="https://github.com/JC01111/Machine-Learning-Projects" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: July 2023 - May 2024
+         <br> <br> <img src="../src/imgs/MNIST.jpeg">
         description: |
           - Developed a Convolutional Neural Network (CNN) to classify CIFAR-10 images with 82.5% accuracy, ranking in the top 11% in Kaggle competition.
           
@@ -97,7 +101,7 @@ content:
           - Classified junk and ham emails by a binary classifier (≈ 85% accuracy)
 
       - layout: top-left
-        sub_title: Database Management System (Java)
+        sub_title: Database Management System (Java) <a href="https://github.com/JC01111/Database-Management-System" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: March 2024
         description: |
           - Implemented transaction management systems to ensure ACID properties and handle concurrency control. 
@@ -117,8 +121,9 @@ content:
           - Employed advanced cryptographic techniques such as HMAC and SHA-512 to encrypt and tag critical data.
 
       - layout: top-left
-        sub_title: Pacman AI (Python)
+        sub_title: Pacman AI (Python) <a href="https://github.com/JC01111/Pacman-AI-Projects" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: Sep 2023 - Dec 2023
+         <br> <br> <img src="../src/imgs/rl_7_2.gif">
         description: | # this will include new lines to allow paragraphs
           - Developed advanced algorithms (A*, Markov Decision Process, Reinforcement Learning, and Machine Learning) to optimize Pac-Man’s path in the maze for efficient pellet collection while evading ghosts.
 
@@ -156,10 +161,11 @@ content:
           - Wrote a shell script to automatically colorize key residuals (salt bridges, h-bonds) by the occupancy
 
       - layout: top-left
-        sub_title: "Plant vs Zombies"
+        sub_title: Ants Vs. Bees <a href="https://github.com/JC01111/Ants_vs_bees" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: Oct 2022
+         <br> <br> <img src="../src/imgs/ants.gif">
         description: |
-          - Wrote a Python game to replicate the "Plant vs Zombies"
+          - Wrote a Python game similar to "Plant vs Zombies" uses an object-oriented programming paradigm
 
 
   - title: Publication
@@ -167,7 +173,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       [1] **Chen, J.**, Potlapalli, R., Quan, H., Chen, L., Xie, Y., Pouriyeh, S., ... & Xie, Y. (2024). [Exploring DNA Damage and Repair Mechanisms: A Review with Computational Insights.](https://www.mdpi.com/2673-6284/13/1/3) _BioTech_, 13(1), 3.
       <br> <br>
-      [2] Xie, Y., Karki, C. B., **Chen, J.**, Liu, D., & Li, L. (2021). [Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase (UDG) and DNA.](https://www.frontiersin.org/articles/10.3389/fmolb.2021.718587/full) Frontiers in Molecular Biosciences, 8, 718587.
+      [2] **Chen, J.**, Chen, L., Quan, H., Lee, S., Khan, K. F., Xie, Y., ... & Xie, Y. (2024). [A Comparative Analysis of SARS-CoV-2 Variants of Concern (VOC) Spike Proteins Interacting with hACE2 Enzyme.](https://www.mdpi.com/1422-0067/25/15/8032) _International Journal of Molecular Sciences, 25_(15), 8032.
+      <br> <br>
+      [3] Xie, Y., Karki, C. B., **Chen, J.**, Liu, D., & Li, L. (2021). [Computational Study on DNA Repair: The Roles of Electrostatic Interactions between Uracil-DNA Glycosylase (UDG) and DNA.](https://www.frontiersin.org/articles/10.3389/fmolb.2021.718587/full) Frontiers in Molecular Biosciences, 8, 718587.
 
 
   - title: Technical Skills
