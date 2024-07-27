@@ -111,7 +111,7 @@ content:
           - Implemented the ARIES recovery algorithm to ensure robust database recovery and fault tolerance.
 
       - layout: top-left
-        sub_title: File Sharing System (Go)
+        sub_title: File Sharing System (Go) <a href="https://github.com/JC01111/File-Sharing-System" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: July 2023
         description: |
           - Developed a secure file sharing system that allows users to log in, store files, and share files with other users, even in the presence of attackers.
@@ -130,7 +130,7 @@ content:
           - Implemented Bayes Nets and Hidden Markov Models (HMMs) to accurately track the position of ghosts using noisy sensor data, and utilized Particle Filtering to enhance Pac-Man’s decision-making process under uncertainty.
 
       - layout: top-left
-        sub_title: Computer Graphics Projects (C++)
+        sub_title: Computer Graphics Projects (C++) <a href="https://github.com/JC01111/Computer-Graphics-Projects" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: Feb 2024
         description: |
           - Implemented a rasterizer with features like drawing triangles, supersampling, hierarchical transforms, and texture mapping with antialiasing, resulting in a functional vector graphics renderer for simplified SVG files.
@@ -138,7 +138,7 @@ content:
           - Developed geometric modeling techniques by building Bezier curves and surfaces using de Casteljau’s algorithm, manipu- lating triangle meshes with half-edge data structure, and implementing mesh upsampling.
 
       - layout: top-left
-        sub_title: Data Analysis Projects (Python)
+        sub_title: Data Analysis Projects (Python) <a href="https://github.com/JC01111/Data-Analysis-Projects" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: March 2023
         description: |
           - "World Population and Poverty": explored data from Gapminder.org to understand and analysis the world population and poverty.
@@ -146,7 +146,7 @@ content:
           - "Climate Change - Temperatures and Precipitation":  investigated data on climate change, and the long-term shifts in temperatures and weather patterns.
 
       - layout: top-left
-        sub_title: Currency Exchange
+        sub_title: Currency Exchange <a href="https://github.com/JC01111/tools" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: Apr 2023
         description: |
           - Wrote a Python program to calculate real time exchange amount
