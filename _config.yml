@@ -168,7 +168,7 @@ content:
           - Wrote a Python game similar to "Plant vs Zombies" uses an object-oriented programming paradigm
 
 
-  - title: Publication
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
       [1] **Chen, J.**, Potlapalli, R., Quan, H., Chen, L., Xie, Y., Pouriyeh, S., ... & Xie, Y. (2024). [Exploring DNA Damage and Repair Mechanisms: A Review with Computational Insights.](https://www.mdpi.com/2673-6284/13/1/3) _BioTech_, 13(1), 3.
