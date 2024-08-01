@@ -60,7 +60,7 @@ content:
     layout: "list" # Type of content section (list/text)
     content:
       - layout: "left"
-        sub_title: "University of California, Berkeley<br> B.A. Computer Science"
+        sub_title: "University of California, Berkeley <br> B.A. Computer Science"
         caption: "Class of 2024<br><br>GPA: 3.4/4.0"
         description: |
           Core Courses: Machine Learning (CS189), Artificial Intelligence (CS188), Database Management System (CS186),  Efficient Algorithms and Intractable Problems (CS170), Optimization Models in Engineering (EECS127), Computer Security (CS161), Data Structures (CS61B), Concepts of Probability (Stat134), Game Theory (Stat155)
@@ -70,16 +70,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        sub_title: Undergraduate Researcher
-        link:
-        # link_text: boringcompany.com
-        sub_title: Kennesaw State University <br> Dr. Yixin Xie's Lab <a href="https://xlab.kennesaw.edu" target="_blank" rel="noopener noreferrer"> [Link]</a>
+        sub_title: Research Assistant
+        link: https://xlab.kennesaw.edu
+        link_text: Kennesaw State University, Dr. Yixin Xie's Lab
+        # sub_title: Kennesaw State University <br> Dr. Yixin Xie's Lab <a href="https://xlab.kennesaw.edu" target="_blank" rel="noopener noreferrer"> [Link]</a>
         caption: Sep 2022 - Present
+        # quote: Kennesaw State University <br> Dr. Yixin Xie's Lab <a href="https://xlab.kennesaw.edu" target="_blank" rel="noopener noreferrer"> [Link]</a>
+        description: | # this will include new lines to allow paragraphs
+          - Applying and Optimizing Machine Learning Algorithms (random forest, GNN, etc.) for biological data analysis.
+          - Write Shell Bash Scripts to perform Molecular Dynamic simulations, increasing calculation speed by 80% compared to traditional workflows.
+          - Developing and Maintaining lab website.
+      - layout: left
+        sub_title: Software Engineer Intern
+        link: None
+        link_text: Hu’nan Creator Information Technologies Corporation Limited
+        # sub_title: Hu’nan Creator Information Technologies Corporation Limited
+        caption: Dec 2023 - Feb 2024
 #        quote: >
         description: | # this will include new lines to allow paragraphs
-          - Applying and Optimizing Machine Learning Algorithms (random forest, GNN, etc.) in biological data analysis
-          - Developing tools (Shell script) to perform Molecular Dynamic simulations, increased calculation speed by 80%
-          - Developing and Maintaining lab website
+          - Developed and maintained software solutions for smart city projects, focusing on front-end and back-end development.
+          - Collaborated with cross-functional teams to design and implement new features in educational and healthcare applications.
 
 
   - title: Projects # Title for the section
@@ -90,7 +100,7 @@ content:
         caption: July 2023 - May 2024
          <br> <br> <img src="src/imgs/MNIST.jpeg">
         description: |
-          - Developed a Convolutional Neural Network (CNN) to classify CIFAR-10 images with 82.5% accuracy, ranking in the top 11% in Kaggle competition.
+          - Developed a Convolutional Neural Network (CNN) to classify CIFAR-10 images with 85.3% accuracy, ranking in the top 3% in Kaggle competition.
           
           - Performed data cleaning and built a Random Forest model to predict Titanic survival with 82% accuracy, ranking in the top 5% in Kaggle competition.
           
@@ -106,7 +116,7 @@ content:
         description: |
           - Implemented transaction management systems to ensure ACID properties and handle concurrency control. 
           
-          - Worked on indexing mechanisms and storage optimizations to enhance data retrieval speeds.
+          - Worked on indexing mechanisms and SQL query optimization, leading to a 20% improvement in performance.
           
           - Implemented the ARIES recovery algorithm to ensure robust database recovery and fault tolerance.
 
